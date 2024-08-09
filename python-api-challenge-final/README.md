@@ -3,6 +3,22 @@
 
 The Jupyter notebooks, `WeatherPy.ipynb` and `VacationPy.ipynb`, are designed to analyze weather data across cities worldwide and identify vacation spots based on user-defined weather preferences.
 
+## Dependencies
+
+- **Python:** The primary programming language used for both notebooks.
+- **Pandas:** A powerful data manipulation library in Python, used for organizing and handling the data efficiently.
+- **Matplotlib:** A plotting library for creating static, interactive, and animated visualizations in Python.
+- **NumPy:** Essential for large array and matrix processing, and provides mathematical functions to operate on these arrays.
+- **Requests:** Used to handle HTTP requests to external APIs, such as the weather API and Google Maps API.
+- **Jupyter Notebook:** An open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
+- **SciPy:** Used for scientific and technical computing.
+
+### API Keys
+
+- **Weather API Key:** Needed to fetch weather data.
+- **Google Maps API Key:** Used for mapping functionalities in `VacationPy`.
+
+
 ### WeatherPy Notebook:
 
 **Purpose:**
